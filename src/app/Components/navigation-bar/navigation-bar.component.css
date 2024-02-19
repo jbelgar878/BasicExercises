@@ -1,0 +1,20 @@
+
+section>h1{
+    padding: 1em;
+    margin-top: 0;
+    background-color: black;
+    color: white;
+}
+
+li{
+    list-style: none;
+    padding: 1px;
+}
+
+li:hover{
+    background-color: lightblue;
+    width: 100px;
+    border-radius: 10px;
+}
+
+

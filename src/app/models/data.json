@@ -1,0 +1,52 @@
+    [
+        {
+          "name": "Juan Perez",
+          "position": "Desarrollador Senior",
+          "salary": 60000
+        },
+        {
+          "name": "María González",
+          "position": "Analista de Datos",
+          "salary": 55000
+        },
+        {
+          "name": "Carlos Rodríguez",
+          "position": "Gerente de Proyectos",
+          "salary": 70000
+        },
+        {
+          "name": "Ana Martínez",
+          "position": "Diseñadora UX/UI",
+          "salary": 58000
+        },
+        {
+          "name": "Pedro López",
+          "position": "Especialista en Marketing",
+          "salary": 62000
+        },
+        {
+          "name": "Luisa Sanchez",
+          "position": "Analista Financiero",
+          "salary": 65000
+        },
+        {
+          "name": "Javier Garcia",
+          "position": "Desarrollador Frontend",
+          "salary": 59000
+        },
+        {
+          "name": "Sofía Ramírez",
+          "position": "Especialista en Recursos Humanos",
+          "salary": 56000
+        },
+        {
+          "name": "Diego Hernandez",
+          "position": "Analista de Seguridad",
+          "salary": 68000
+        },
+        {
+          "name": "Elena Diaz",
+          "position": "Especialista en Soporte Técnico",
+          "salary": 54000
+        }
+    ]
