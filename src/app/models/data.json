@@ -2,51 +2,61 @@
         {
           "name": "Juan Perez",
           "position": "Desarrollador Senior",
-          "salary": 60000
+          "salary": 60000,
+          "deAlta": true
         },
         {
           "name": "María González",
           "position": "Analista de Datos",
-          "salary": 55000
+          "salary": 55000,
+          "deAlta": false
         },
         {
           "name": "Carlos Rodríguez",
           "position": "Gerente de Proyectos",
-          "salary": 70000
+          "salary": 70000,
+          "deAlta": true
         },
         {
           "name": "Ana Martínez",
           "position": "Diseñadora UX/UI",
-          "salary": 58000
+          "salary": 58000,
+          "deAlta": false
         },
         {
           "name": "Pedro López",
           "position": "Especialista en Marketing",
-          "salary": 62000
+          "salary": 62000,
+          "deAlta": true
         },
         {
           "name": "Luisa Sanchez",
           "position": "Analista Financiero",
-          "salary": 65000
+          "salary": 65000,
+          "deAlta": false
         },
         {
           "name": "Javier Garcia",
           "position": "Desarrollador Frontend",
-          "salary": 59000
+          "salary": 59000,
+          "deAlta": true
         },
         {
           "name": "Sofía Ramírez",
           "position": "Especialista en Recursos Humanos",
-          "salary": 56000
+          "salary": 56000,
+          "deAlta": false
         },
         {
           "name": "Diego Hernandez",
           "position": "Analista de Seguridad",
-          "salary": 68000
+          "salary": 68000,
+          "deAlta": true
         },
         {
           "name": "Elena Diaz",
           "position": "Especialista en Soporte Técnico",
-          "salary": 54000
+          "salary": 54000,
+          "deAlta": true
         }
     ]

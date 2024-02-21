@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import {UpperCasePipe} from "@angular/common";
-import {FormsModule} from "@angular/forms";
+import { UpperCasePipe} from "@angular/common";
+import {FormsModule, } from "@angular/forms";
 
 @Component({
   selector: 'app-ex05',

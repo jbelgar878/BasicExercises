@@ -9,6 +9,7 @@ import { Ex07Component } from './Components/ex07/ex07.component';
 import { Ex08Component } from './Components/ex08/ex08.component';
 import { Ex09Component } from './Components/ex09/ex09.component';
 import { Ex10Component } from './Components/ex10/ex10.component';
+import { ExamenComponent } from './Components/examen/examen.component';
 
 export const routes: Routes = [
     {path: '', redirectTo: '', pathMatch: 'full'},
@@ -22,6 +23,7 @@ export const routes: Routes = [
     { path: 'ej8', component: Ex08Component},
     { path: 'ej9', component: Ex09Component},
     { path: 'ej10', component: Ex10Component},
+    {path: 'examen',component:ExamenComponent},
 
     
 ];

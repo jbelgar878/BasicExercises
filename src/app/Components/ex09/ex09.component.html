@@ -4,7 +4,7 @@
 <table class="table-bordered table-hover">
   <thead>
     <tr>
-          <th>Name</th><th>Position</th><th>Salary</th>
+          <th>Name</th><th>Position</th><th>Salary</th><th>esta de alta</th>
     </tr>
   </thead>
   <tbody>
@@ -12,6 +12,14 @@
     <td>{{ e.name }}</td>
     <td>{{ e.position }}</td>
     <td>{{ e.salary }}</td>
+
+    @if (e.deAlta) {
+      <td>si</td>
+    }@else {
+      <td>no</td>
+    }
+    
+
   </tr>
   </tbody>
   
@@ -26,5 +34,7 @@
   <input type="button"  value="name" (click)="sortEmployee('salary')">
   <input type="button"  value="position" (click)="sortEmployee('name')">
   <input type="button"  value="salary" (click)="sortEmployee('position')">
+  <input type="button"  value="deAlta" (click)="sortEmployee('deAlta')">
+
 </form>
 

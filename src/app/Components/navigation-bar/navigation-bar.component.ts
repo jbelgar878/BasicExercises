@@ -29,6 +29,7 @@ export class NavigationBarComponent {
       {path: 'ej7', title: ' ejercicio 7'},
       {path: 'ej8', title: ' ejercicio 8'},
       {path: 'ej9', title: ' ejercicio 9'},
-      {path: 'ej10', title: ' ejercicio 10'}
+      {path: 'ej10', title: ' ejercicio 10'},
+      {path: 'examen', title: ' examen'},
     ]
 }

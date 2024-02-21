@@ -34,6 +34,6 @@ export class Ex09Component {
   //  }
 
    sortEmployee(keyEX : keyof Employee){
-    this.employees.sort((a:Employee, b:Employee) => a[keyEX] > b[keyEX] ? 1 : -1)
+    this.employees.sort((a:Employee, b:Employee) => a[keyEX] > b[keyEX] ? -1 : 1)
    }
 }
